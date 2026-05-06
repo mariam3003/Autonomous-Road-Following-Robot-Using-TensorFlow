@@ -1,4 +1,4 @@
-# Autonomous Road-Following Robot using Camera-Based Learning (ROS2, Gazebo)
+# Autonomous Road-Following Robot Using TensorFlow (ROS2, Gazebo)
 
 An autonomous road-following robot that learns from camera images to make real-time driving decisions, achieving ~90% accuracy in a ROS2 and Gazebo simulation environment.
 
