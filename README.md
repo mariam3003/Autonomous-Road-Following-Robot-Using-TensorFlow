@@ -85,6 +85,11 @@ A lightweight image classification model that maps camera input to driving actio
 - Achieves **~90% classification accuracy** on validation data  
 
 ---
+
+## Results
+
+The robot successfully navigates simulated road environments in real time, demonstrating reliable lane-following behavior driven entirely by camera-based predictions.
+
 ## Notes
 
 Some file paths in this project are hardcoded to a specific ROS2 workspace:
@@ -92,7 +97,3 @@ Some file paths in this project are hardcoded to a specific ROS2 workspace:
 /home/common/CPMR3/ros2_ws/src/cpmr_ch6/
 
 Update these paths to match your own local ROS2 environment before running the code.
-
-## Results
-
-The robot successfully navigates simulated road environments in real time, demonstrating reliable lane-following behavior driven entirely by camera-based predictions.
